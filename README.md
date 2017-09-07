@@ -1,8 +1,8 @@
 # FEMAHotels
 Idea for scraping http://www.femaevachotels.com
 
-http://docs.python-requests.org/en/latest/
-https://www.crummy.com/software/BeautifulSoup/
+* http://docs.python-requests.org/en/latest/
+* https://www.crummy.com/software/BeautifulSoup/
 
 # POST http://www.femaevachotels.com/index.php
 * Content-Type: application/x-www-form-urlencoded
