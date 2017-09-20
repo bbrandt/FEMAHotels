@@ -13,6 +13,8 @@ Idea for scraping http://www.femaevachotels.com
 ...
 </div>
 ```
+# Why?
+Results are currently listed alphabetically, making locating a hotel near you difficult.
 
 # Others
 http://swamplot.com/your-map-to-the-houston-area-hotels-and-motels-where-fema-pays/2017-09-04/#comments
