@@ -13,6 +13,10 @@ Idea for scraping http://www.femaevachotels.com
 ...
 </div>
 ```
+# FEMA ArcGIS Server
+Data may more easily accesible here:
+https://gis.fema.gov/arcgis/rest/services/FEMA
+
 # Why?
 Results are currently listed alphabetically, making locating a hotel near you difficult.
 
